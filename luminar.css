@@ -1,0 +1,112 @@
+.luminar h1{
+    margin-top:-335px;
+    margin-left: 89px;
+
+}
+.scroll-bg{
+     width: 600px;
+     margin: 20px;
+margin-top: 100px;
+     
+     /* background-color: rgb(152, 174, 167); */
+}
+.scroll-div{
+    width: 700px;
+    height: 500px;
+    /* background-color: rgb(192, 157, 157); */
+    overflow: hidden;
+    overflow-y: scroll;
+  
+}
+.scroll-object{
+    /* color: rgb(202, 109, 210); */
+}
+.image img{
+    margin-top: -623px;
+   margin-left: 770px;
+}
+.list{
+    list-style:url(images/logo.jpg) ;margin-left: 100px;;
+}
+.card img{
+    border-radius: 50%;
+    width: 50%;
+    margin-left: 50px;
+  margin-top: 20px;
+}
+.card:hover{
+   background-color: blueviolet;
+}
+.card{
+    height: 300px;
+    margin-top: 20px;
+    padding: 10px;
+   
+}
+.black h1{
+    margin-top: -292px;
+    margin-left: 240px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.black button{
+    margin-top: 55px;
+    margin-left: 562px;
+}
+.card1{
+    height: 700px;
+}
+.card-body1 a:hover{
+    text-decoration: underline;
+}
+.card-body1 a{
+    text-decoration: none;
+    color: blueviolet;
+    
+}
+.card1{
+    color: blueviolet;
+}
+.nav-item a:hover{
+    text-decoration: underline;
+}
+.nav-item a{
+    color: blueviolet;
+}
+.luminar h1{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   color: blueviolet;
+}
+.col-md-7 a{
+margin-left: 51px;
+margin-top: 200px;
+text-decoration: none;
+color: blueviolet;
+}
+ .col-md-5 button{
+    margin-left:310px;
+    margin-top: -2px;
+    border-radius: 30%;
+}
+.social{
+    margin-left: 100px;}
+
+.col-md-6 { margin-left: 84px;
+    margin-top: 100px;
+
+}
+.col-md-6 h1{
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.col-md-6 h4{
+    color: rgb(143, 93, 193);
+}
+.col-md-6 img{
+   margin-top:-308px ;
+margin-left: 500px;}
+.carousel-inner img{
+    height: 400px;
+    width: 100%;
+    
+}
